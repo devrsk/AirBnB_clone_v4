@@ -161,6 +161,6 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Raheem Salifu Kasim - [Github](https://github.com/devrsk) / [Twitter](https://twitter.com/devrsk)
 Ibrahim Mwakaba
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
